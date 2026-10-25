@@ -1,4 +1,4 @@
-This is a AriesLM16. It learns from your input patterns and reconstructs new sentences. It is like a living document, But it learns. If it goes sentient, email me at Beanso66@gmail.com
+This is a AriesLM16. It learns from your input patterns and reconstructs new sentences. It is like a living document, But it learns.
 Make sure you put Proper punctuation (".", "?", "!") in your sentences or it will loop forever! =P
 
 AriesLM16.sb3:
